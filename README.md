@@ -41,3 +41,6 @@ letakkan bilangan yang tersisa di tengah
 ![sslatihan2](https://user-images.githubusercontent.com/44091204/47499616-94e62f80-d88a-11e8-9e97-319a62f4f6b3.jpg)
 
 FLOWCHART
+
+![flowchart2](https://user-images.githubusercontent.com/44091204/47499724-eabad780-d88a-11e8-93ae-1b89440575fc.jpg)
+
