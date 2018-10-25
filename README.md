@@ -22,4 +22,5 @@ Deskripsi
                         else write(“Terbesar = ”,c);
             endif
             endif
-
+            
+![sslatihan1](https://user-images.githubusercontent.com/44091204/47499065-35d3eb00-d889-11e8-8b41-8b0eb2740640.jpg)
