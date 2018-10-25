@@ -65,4 +65,7 @@ mencetak nilai tengah dari 3 buah bilangan
 7.    Cetak Hasil yaitu m
 8.    Selesai
 
+![sslatihan3](https://user-images.githubusercontent.com/44091204/47499920-82b8c100-d88b-11e8-9683-1dd102316dd8.jpg)
+
+
 
