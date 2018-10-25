@@ -44,3 +44,25 @@ FLOWCHART
 
 ![flowchart2](https://user-images.githubusercontent.com/44091204/47499724-eabad780-d88a-11e8-93ae-1b89440575fc.jpg)
 
+LATIHAN3
+
+mencetak nilai tengah dari 3 buah bilangan 
+
+1.    Mulai
+2.    Deklarasikan variabel
+3.    Tentukan banyaknya data (N)
+4.    Input data dalam loop
+5.    Urutkan data secara Ascending
+6.    Cari Nilai Median dengan cara :
+       •    Cek lebih dahulu, apakah jumlah data Ganjil atau Genap dengan  mod. 
+       •    N1 = N mod 2 
+       •    Jika genap (N1=0), maka cari posisi data Median dengan DIV 
+       •    I1 = n div 2, maka posisi data Median  adalah i1 dan data ke-2 adalah i1+1
+       •    Cari Median,  m = (data[i1] + data[i1+1])/2
+       •    Jika Ganjil(N1>0), maka cari posisi data Median dengan DIV
+       •    I1 = (n div 2)+1, maka posisi data Median adalah i1
+       •    Cari Median , m = data[i1]
+7.    Cetak Hasil yaitu m
+8.    Selesai
+
+
