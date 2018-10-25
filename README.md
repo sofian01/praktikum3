@@ -37,3 +37,7 @@ bandingkan ketiga bilangan tersebut
 letakkan bilangan terkecil di depan
 letakkan bilangan terbesar di belakang
 letakkan bilangan yang tersisa di tengah
+
+![sslatihan2](https://user-images.githubusercontent.com/44091204/47499616-94e62f80-d88a-11e8-9e97-319a62f4f6b3.jpg)
+
+FLOWCHART
